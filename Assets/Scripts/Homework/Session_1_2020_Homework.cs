@@ -45,6 +45,5 @@ private int OverallNumberOfFloors (int _FirstNumber, int _SecondNumber)
         Console.WriteLine(keyValue.Key + "-" + keyValue.Value);
   }
 string Type = TypeOfTheBuilding[3];
-
 TypeOfTheBuilding[3] = "ShoppingMall";
 
