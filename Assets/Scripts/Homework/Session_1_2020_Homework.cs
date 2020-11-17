@@ -21,7 +21,7 @@ public class Session_1_2020_Homework : MonoBehaviour
     public float[] HeightOfTheFloors = { 2.7f, 3.3f, 4.5f };
 
     public List<int> TypesOfApparments = new List<int>();
-
+ 
     // видимость, тип возв. название  
     private int OverallNumberOfFloors(int _FirstNumber, int _SecondNumber)
     {
